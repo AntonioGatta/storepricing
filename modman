@@ -1,0 +1,10 @@
+app/etc/modules/Innoexts_InnoCore.xml app/etc/modules/Innoexts_InnoCore.xml
+app/etc/modules/Innoexts_StorePricing.xml app/etc/modules/Innoexts_StorePricing.xml
+app/code/local/Innoexts/InnoCore/* app/code/local/Innoexts/InnoCore/
+app/code/local/Innoexts/StorePricing/* app/code/local/Innoexts/StorePricing/
+app/design/adminhtml/default/default/template/innocore/* app/design/adminhtml/default/default/template/innocore/
+app/locale/en_US/Innoexts_InnoCore.csv app/locale/en_US/Innoexts_InnoCore.csv
+app/locale/en_US/Innoexts_StorePricing.csv app/locale/en_US/Innoexts_StorePricing.csv
+js/innoexts/* js/innoexts/
+skin/adminhtml/default/default/storepricing/* skin/adminhtml/default/default/storepricing/
+sql/Innoexts/* sql/Innoexts/
